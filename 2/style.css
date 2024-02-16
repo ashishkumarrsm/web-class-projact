@@ -9,11 +9,16 @@ body {
   background: #000000e3;
   color: white;
 }
+header{
+  position: sticky;
+  top: 0;
+}
 .header-nav {
   width: 80vw;
   margin: 22px auto;
   display: flex;
   justify-content: space-around;
+  
 }
 .con ul {
   display: flex;
@@ -419,3 +424,6 @@ span {
   .link{
     cursor: pointer;
   }
+
+  
+  

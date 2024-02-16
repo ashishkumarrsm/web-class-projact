@@ -1,0 +1,30 @@
+body {
+  background: #15212c;
+}
+
+header {
+  /* position: sticky;
+    top: 0; */
+  background: #000000e3;
+  color: white;
+}
+.header-nav {
+  width: 80vw;
+  margin: 22px auto;
+  display: flex;
+  justify-content: space-around;
+}
+.con ul {
+  display: flex;
+  gap: 23px;
+}
+.con ul li {
+  list-style: none;
+  padding: 12px;
+  cursor: pointer;
+  /* border: 2px solid red; */
+}
+li a {
+  text-decoration: none;
+  color: #22d3ee;
+}
