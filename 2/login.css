@@ -180,6 +180,9 @@ main{
   
   .login-box a.a2:hover {
     background: transparent;
-    color: #aaa;
+    color: #000000;
     border-radius: 5px;
   }
+ .but{
+  text-decoration: none;
+ }
