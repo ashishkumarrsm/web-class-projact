@@ -430,6 +430,16 @@ span {
   .link{
     cursor: pointer;
   }
+  .link a img:hover{
+    cursor: pointer;
+    background: linear-gradient(red ,black, pink, gray, orange, purple ,aqua);
+    /* width: 60px; */
+   border: 5px solid rgb(20, 15, 15);
+   border-radius: 50%;
+   
+   mix-blend-mode: color-burn;
+
+  }
 
   
   
